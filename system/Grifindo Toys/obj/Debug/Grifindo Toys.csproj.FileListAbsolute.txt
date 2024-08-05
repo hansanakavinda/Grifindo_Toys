@@ -1,0 +1,15 @@
+C:\Users\Hansana\Desktop\Esoft\sem 1\programming\assignment\system\Grifindo Toys\bin\Debug\Grifindo Toys.exe.config
+C:\Users\Hansana\Desktop\Esoft\sem 1\programming\assignment\system\Grifindo Toys\bin\Debug\Grifindo Toys.exe
+C:\Users\Hansana\Desktop\Esoft\sem 1\programming\assignment\system\Grifindo Toys\bin\Debug\Grifindo Toys.pdb
+C:\Users\Hansana\Desktop\Esoft\sem 1\programming\assignment\system\Grifindo Toys\obj\Debug\Grifindo Toys.csproj.AssemblyReference.cache
+C:\Users\Hansana\Desktop\Esoft\sem 1\programming\assignment\system\Grifindo Toys\obj\Debug\Grifindo_Toys.loginForm.resources
+C:\Users\Hansana\Desktop\Esoft\sem 1\programming\assignment\system\Grifindo Toys\obj\Debug\Grifindo_Toys.Properties.Resources.resources
+C:\Users\Hansana\Desktop\Esoft\sem 1\programming\assignment\system\Grifindo Toys\obj\Debug\Grifindo Toys.csproj.GenerateResource.cache
+C:\Users\Hansana\Desktop\Esoft\sem 1\programming\assignment\system\Grifindo Toys\obj\Debug\Grifindo Toys.csproj.CoreCompileInputs.cache
+C:\Users\Hansana\Desktop\Esoft\sem 1\programming\assignment\system\Grifindo Toys\obj\Debug\Grifindo Toys.exe
+C:\Users\Hansana\Desktop\Esoft\sem 1\programming\assignment\system\Grifindo Toys\obj\Debug\Grifindo Toys.pdb
+C:\Users\Hansana\Desktop\Esoft\sem 1\programming\assignment\system\Grifindo Toys\obj\Debug\Grifindo_Toys.mainForm.resources
+C:\Users\Hansana\Desktop\Esoft\sem 1\programming\assignment\system\Grifindo Toys\obj\Debug\Grifindo_Toys.userRegForm.resources
+C:\Users\Hansana\Desktop\Esoft\sem 1\programming\assignment\system\Grifindo Toys\obj\Debug\Grifindo_Toys.EmpRegForm.resources
+C:\Users\Hansana\Desktop\Esoft\sem 1\programming\assignment\system\Grifindo Toys\obj\Debug\Grifindo_Toys.SalarySettingsForm.resources
+C:\Users\Hansana\Desktop\Esoft\sem 1\programming\assignment\system\Grifindo Toys\obj\Debug\Grifindo_Toys.salaryCalForm.resources
